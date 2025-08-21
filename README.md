@@ -3,8 +3,7 @@
 
 ---
 
-<!-- About Me -->
-![About Me](https://capsule-render.vercel.app/api?type=rect&color=1fddff&height=60&section=header&text=🧑‍💻%20About%20Me&fontSize=20&fontColor=000000)
+## 🧑‍💻 About Me  
 
 💡 Final-Year **Computer Science & Engineering** Student  
 🤖 Focused on **AI & ML | Assistive Tech | Web Development**  
@@ -12,8 +11,7 @@
 
 ---
 
-<!-- Skills -->
-![Skills](https://capsule-render.vercel.app/api?type=rect&color=ffb347&height=60&section=header&text=🚀%20Skills&fontSize=20&fontColor=000000)
+## 🚀 Skills  
 
 ### 💻 Programming & Development  
 <p align="center">
@@ -32,8 +30,7 @@
 
 ---
 
-<!-- Projects -->
-![Projects](https://capsule-render.vercel.app/api?type=rect&color=90EE90&height=60&section=header&text=🏆%20Highlighted%20Projects&fontSize=20&fontColor=000000)
+## 🏆 Highlighted Projects  
 
 - 🩺 **AI-Based Motor Function Assessment for Children with Cerebral Palsy**  
   ST-GCN powered system for diagnosis & therapy support.  
@@ -52,8 +49,7 @@
 
 ---
 
-<!-- GitHub Stats -->
-![Stats](https://capsule-render.vercel.app/api?type=rect&color=ff6f61&height=60&section=header&text=📊%20GitHub%20Stats&fontSize=20&fontColor=000000)
+## 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kishore735&show_icons=true&theme=tokyonight" height="170" />
@@ -66,8 +62,7 @@
 
 ---
 
-<!-- Connect -->
-![Connect](https://capsule-render.vercel.app/api?type=rect&color=87CEFA&height=60&section=header&text=🔗%20Connect%20With%20Me&fontSize=20&fontColor=000000)
+## 🔗 Connect With Me  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kishore735">
@@ -83,11 +78,10 @@
 
 ---
 
-<!-- Extras -->
-![Extras](https://capsule-render.vercel.app/api?type=rect&color=FFD700&height=60&section=header&text=💡%20Extras&fontSize=20&fontColor=000000)
+## 💡 Extras  
 
 - ❤️ Passionate about **Assistive Technologies** for healthcare  
-- 📚 Exploring **AI-driven Education & Healthcare Solutions**   
+- 📚 Exploring **AI-driven Education & Healthcare Solutions**  
 
 ---
 
